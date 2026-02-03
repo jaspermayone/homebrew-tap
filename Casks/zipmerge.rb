@@ -1,6 +1,6 @@
 cask "zipmerge" do
-  version "2.0.2"
-  sha256 "635e79a3f94181d63893b097e80278933133c3fc0232b02f21f4e745cefa13cb"
+  version "2.0.3"
+  sha256 "5b5c36e24fd50f600915ccb123f706d7945da760db046d89a00451ec35441d43"
 
   url "https://github.com/jaspermayone/ZipMerge/releases/download/v#{version}/ZipMerge.zip"
   name "ZipMerge"
