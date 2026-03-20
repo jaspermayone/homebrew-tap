@@ -1,8 +1,8 @@
 class Boxcar < Formula
   desc "Rails app generator with opinionated defaults"
   homepage "https://github.com/jaspermayone/boxcar"
-  url "https://github.com/jaspermayone/boxcar/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "3488121cbca943bbb8ee7d6ba7713fb7295d11710abb24d2a7ae59c49d79ddc1"
+  url "https://github.com/jaspermayone/boxcar/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "619052b291911da67cb7ea64c1e35b287e7cd0a1bff201d0e5404de9d6987904"
   license "MIT"
 
   def install
